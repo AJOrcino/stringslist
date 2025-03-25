@@ -5,4 +5,3 @@ InputList = ["Python", "Java", "C++", "C#", "C", "JavaScript", "Ruby", "Go", "Sw
             "PHP", "Perl"]
 OutputList = SortedList(InputList)
 print(OutputList)
-print("Allen Jefferson C. Orcino")
